@@ -244,6 +244,10 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
 }
 
+.fh5co-bg a{
+  color: #FFFFFF;
+}
+
 .fh5co-video {
   height: 450px;
   overflow: hidden;
@@ -1387,6 +1391,8 @@ form label {
   font-weight: 400;
   padding-left: 50px;
   padding-right: 50px;
+  text-align: center;
+  vertical-align: middle !important;
 }
 #fh5co-started .form-inline .form-group {
   width: 100% !important;
