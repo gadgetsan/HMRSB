@@ -1072,6 +1072,14 @@ form label {
   width: 50%;
   float: left;
 }
+.cortege{
+  text-align: center;
+}
+.cortege h3 {
+  font-family: "Sacramento", Arial, serif;
+  color: #008080;
+  font-size: 30px;
+}
 @media screen and (max-width: 768px) {
   .couple-half {
     width: 100%;
@@ -1197,6 +1205,18 @@ form label {
   color: #008080;
   font-family: "Sacramento", Arial, serif;
 }
+
+
+.honneur-heading h2 {
+  font-size: 60px;
+  margin-top: 40px;
+  margin-bottom: 0px;
+  line-height: 1.5;
+  font-weight: bold;
+  color: #008080;
+  font-family: "Sacramento", Arial, serif;
+}
+
 @media screen and (max-width: 768px) {
   .fh5co-heading h2 {
     font-size: 40px;
